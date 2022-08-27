@@ -19,25 +19,36 @@ bar =3.75 可以 overload 6 units
 老师是Karen Clay，特别喜欢出应用题，结合Eco与具体问题分析。Exam 60%，HW 30%，Quiz则是10%。拿A不难
 
 
+
 ##### Organizational Design & Implementation(94-700, 6 units)：
 
 这门课有两个版本，David Krackhardt和Lassman。期中期末两次考试，作业是哈佛商学院的案例分析。一次pre，我的小组第一周就被抽到了，之后只需要给其他小组的pre写点评。由于期中期末都是解答题，拿A难度相当大。
+
+
 
 ##### Professional Speaking(95-718, 6 units)：
 
 专业口语，顾名思义，这是一节纯pre课。总共五次个人pre：Convince me，Teach me, 两次Studio，Final。Teach me，教大家做一件事情，譬如喂老鹰，发明新的语言等。Convince me, Studio和Final以围绕一个选题内容展开的。选题比较思辨，譬如如何解决贫穷，如何看待中国社会的诚信机制。抛出的观点必须有evidence作为支撑，这是本课最大的难点。譬如你想论证美国枪击事件频发，你简单援引媒体上“美国2018年大规模枪击事件XXX起”的报道是不充分的。“大规模枪击”的定义是什么？你得弄清楚opinion, truth 和fact的区别。Labash给分慷慨，但随机性大。如果班上native speaker较多，得A会难一些。 
 
+
+
 ##### Intermediate Database Management(95-813, 6 units)：
 
 12分的数据库的中阶版本，主要内容是schema和normalization。难度跟本科数据库差不多，但未涉及事务管理、数据库引擎等概念。五次hw和一次final，拿A不难。
+
+
 
 ##### Statistics for IT Management(95-796, 6 units)：
 
 说来惭愧，本科没学过概率论与数理统计。课程难度对于中国学生来说很低，拿A+要少多花些心思，拿A没有难度。补了一下假设性检验和常见概率模型，为下学期上机器学习铺路。
 
+
+
 ##### Professional Writing(95-717, 6 units)：
 
 必修课；专业写作是指如何写职场邮件，brief summary和proposal。Haylee老师特别强调课堂参与，想拿A-以上的同学，每堂课至少发言一次。不然老师会感受不到你的存在感。Office hour要常去混个脸熟，。这门课拿A-就很不错了，身边大多数中国人是B或B+。
+
+
 
 ##### Distributed Systems for Information Systems Management(95-703, 12 units)：
 
