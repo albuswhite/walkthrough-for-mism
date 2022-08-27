@@ -14,13 +14,13 @@ bar =3.75 可以 overload 6 units
 
 ### Core
 
-##### Economic Analysis(95-710, 6 units)：
+#### Economic Analysis(95-710, 6 units)：
 
 老师是Karen Clay，特别喜欢出应用题，结合Eco与具体问题分析。Exam 60%，HW 30%，Quiz则是10%。拿A不难
 
 
 
-##### Organizational Design & Implementation(94-700, 6 units)：
+#### Organizational Design & Implementation(94-700, 6 units)：
 
 这门课有两个版本，David Krackhardt和Lassman。期中期末两次考试，作业是哈佛商学院的案例分析。一次pre，我的小组第一周就被抽到了，之后只需要给其他小组的pre写点评。由于期中期末都是解答题，拿A难度相当大。
 
