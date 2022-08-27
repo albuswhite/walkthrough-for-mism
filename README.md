@@ -36,13 +36,13 @@ bar =3.75 可以 overload 6 units
 
 
 
-##### 什么是重课？
+#### 什么是重课？
 
  搜“CMU FCE”，这个是以往每一届同学的faculty course evaluation，里面有一项是每周上这个课（包括上课和作业）用了多长时间。这大概是最直观的参考了。 一般来说，~10h的是水课，~15h的是中等load，>=18h的算重课。当然，实际情况也因人而异。 注意>25h的选项是FCE的最后一项，所以如果FCE显示>25h，很可能实际是30~40h。
 
 
 
-##### 一些热门课的workload
+#### 一些热门课的workload
 
 重：15-605 Operating Systems / 15-611 Compiler > 15-619 Cloud Computing > 11-785 Deep Learning > 15-641 Computer Networks / 15-746 Storage Systems 
 
