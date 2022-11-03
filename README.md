@@ -103,12 +103,19 @@ data structure入门课，老师是Terry Lee，上课很有意思，用JAVA实�
 #### 15640 Distributed Systems
 
 
+#### 15-719/18-847 Advanced Cloud Computing
+这是一门ECE的核心课，仅春季学期开设，方便毕业，可选。比Distributed System low一点，但是又比Cloud Computing的level高一点。这个课和Distributed System有很大的重叠，可以和Distributed System同步上，也可以先把Distributed System上完再上这个课，这样会比较轻松一些。千万不要先上这个课再跑去上Distributed System，怕你理解起来不容易，毕竟这个课的老师讲课质量不够Distributed System的好，有点随意。这门课的优点是workload比较小。
 
 
 
 #### Web Application Development (17-437 / 17-637): 
 
 小组PJ，可以丰富简历，相比较来说workload不算大，每节课quiz，教授很有激情，是Terry Lee的老师。
+
+
+
+#### 18652 Foundation of Software Engineering
+sv、se的必选课。这门课会用到很多web tool、framework等等之类，可以给简历增添不少亮笔；如果你选了一个市面上运用比较广泛比较流行的技术栈，什么react/redux之类的，那不得了了，你这个简历怕是要开光了。这个课的过程是这样的：学生组队做一个老师规定好的项目，一定要用node（express）作为后端。一开始，就是搞一个聊天室，一个hw0用http://socket.io作中介的非常基本的nodeJS为后端的那种。组队项目对每个人的要求都一样，每周要给助教报进度，每个组每两周一个iteration、每两周给助教demo。想上这门课的同学，建议提前去打听一下作业，然后自己估摸一下自己能不能上，如果感觉很难，就不要去坑队友了...
 
 
 
