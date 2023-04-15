@@ -1,5 +1,14 @@
 # walkthrough-for-mism
 
+一说到选课，就会有很多人喷mism的课设。
+
+我比较认同的一点是54分实在有点多。那些management的课完全可以分点track给爱上的三哥和老美上。没必要拽着所有人一起坐牢。
+
+但是说mism的代码课烂我其实是保持中立态度的，可能课设确实不如沉淀多年的15，17系列。
+但是这里有一个非常重要的前提条件，好兄弟，你得先照照镜子看看自己配不配，据我所知，一半兄弟上个java,ds都要连问带抄的写作业。大部分兄弟根本学不明白18613.
+就算把课全给你换成MSCS,MSAI的课，你敢上吗？天天喊着选课不自由，heinz的课烂，喷之前能不能先晒晒你613，785的A+成绩单给我开开眼。
+
+
 only record for  my own convenience
 
 
@@ -10,6 +19,8 @@ bar =3.75 可以 overload 6 units
 
 看课的link https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search
 
+
+每门课其实有80%取决于教授，需要因地制宜.
 
 
 ### Core
